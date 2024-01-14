@@ -5,8 +5,7 @@
 > The SDK provides convenient access to the Africa's Talking APIs to python apps.
 
 
-## Documentation
-Take a look at the [API docs here](https://developers.africastalking.com).
+
 
 ## Install
 
